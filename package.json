@@ -1,0 +1,13 @@
+{
+  "name": "template-vue",
+  "version": "1.0.0",
+  "description": "Vue.js App Template",
+  "keywords": ["template", "vue"],
+  "author": "beetaa",
+  "private": true,
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
