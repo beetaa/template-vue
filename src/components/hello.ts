@@ -1,0 +1,1 @@
+export const word = '哈哈哈12354'
